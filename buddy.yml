@@ -14,4 +14,4 @@
     type: "GIT_HUB_RELEASE"
     source_path: "dupa.zip"
     trigger_condition: "ALWAYS"
-    tag_name: "$BUDDY_EXECUTION_REVISION"
+    tag_name: "tag-$BUDDY_EXECUTION_REVISION"
