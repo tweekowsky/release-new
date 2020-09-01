@@ -14,4 +14,4 @@
     type: "GIT_HUB_RELEASE"
     source_path: "dupa.zip"
     trigger_condition: "ALWAYS"
-    tag_name: "te333"
+    tag_name: "$BUDDY_EXECUTION_REVISION"
