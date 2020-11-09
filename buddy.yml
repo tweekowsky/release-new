@@ -1,4 +1,4 @@
-- pipeline: "dupa1243"
+- pipeline: "dupa124321"
   trigger_mode: "MANUAL"
   ref_name: "master"
   ref_type: "BRANCH"
